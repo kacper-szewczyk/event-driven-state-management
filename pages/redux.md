@@ -18,7 +18,7 @@ import { Provider } from "react-redux";
 
 # Define store
 
-Store: The store is a central repository that holds the application state. It is created using the createStore function provided by Redux. The store dispatches actions to the reducers, which in turn produce a new state.
+The store is a central repository that holds the application state. It is created using the createStore function provided by Redux. The store dispatches actions to the reducers, which in turn produce a new state.
 
 ```ts {0|4-8|1|2|10-16|all}
 import { configureStore, ThunkAction, Action } from "@reduxjs/toolkit";

@@ -41,6 +41,14 @@ The last comment block of each slide will be treated as slide notes. It will be 
 ---
 layout: center
 class: text-left
+src: pages/optimization_intro.md
+hide: false
+
+---
+
+---
+layout: center
+class: text-left
 src: pages/optimization.md
 hide: false
 
@@ -103,3 +111,11 @@ src: pages/sources.md
 hide: false
 
 ---
+
+---
+layout: full
+src: pages/store_optimization.md
+hide: false
+
+---
+
