@@ -39,7 +39,8 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-layout: center
+layout: image-left
+image: images/cebula.jpg
 class: text-left
 src: pages/optimization_intro.md
 hide: false
@@ -77,6 +78,21 @@ hide: false
 ---
 
 ---
+layout: image
+image: images/redux_select.jpg
+hide: false
+
+---
+
+
+---
+layout: image
+image: images/redux_reducer.jpg
+hide: false
+
+---
+
+---
 layout: full
 src: pages/eda.md
 hide: false
@@ -99,8 +115,21 @@ hide: false
 
 ---
 layout: image
+image: images/eventrix.jpg
+hide: false
+
+---
+
+---
+layout: image
+image: images/eventrix-listeners.jpg
+hide: false
+
+---
+
+---
+layout: image
 image: images/pytania.jpg
-src: pages/questions.md
 hide: false
 
 ---
