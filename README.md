@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Event driven state management
 
 To start the slide show:
 
@@ -6,6 +6,7 @@ To start the slide show:
 - `npm run dev`
 - visit http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+[GitHub repo](https://github.com/kacper-szewczyk/redux-vs-eventrix)
+
+

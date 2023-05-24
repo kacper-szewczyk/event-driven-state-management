@@ -5,7 +5,7 @@ Event-driven architecture is a software design pattern that structures an applic
 
 ---
 
-## Key Components in Event-Driven Architecture:
+# Key Components in Event-Driven Architecture:
 
 - Events: An event is a significant occurrence or action within the system. It can be a user action (e.g., clicking a button), a system event (e.g., a timer expiring), or a message from another component or system.
 

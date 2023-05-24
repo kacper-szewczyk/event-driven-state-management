@@ -20,5 +20,3 @@
 - Styling and layout: applies CSS styles to the UI components to control their appearance, including colors, fonts, sizes, margins, and positioning. 
 
 - Responsiveness: It employs responsive design techniques, such as media queries or flexible layouts, to ensure that the UI is accessible and usable across various devices and screen resolutions.
-
----

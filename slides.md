@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: ./images/bg.jpg
 # apply any windi css classes to the current slide
 class: "text-center"
 # https://sli.dev/custom/highlighters.html
@@ -12,10 +12,7 @@ highlighter: shiki
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
-
-  Learn more at [Sli.dev](https://sli.dev)
+  ## Event based state management
 # persist drawings in exports and build
 drawings:
   persist: false
@@ -28,7 +25,7 @@ css: unocss
 # Event-driven state management
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/slidevjs/slidev" target="_blank" alt="GitHub"
+  <a href="https://github.com/kacper-szewczyk/event-driven-state-management" target="_blank" alt="GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -71,7 +68,8 @@ hide: false
 ---
 
 ---
-layout: cover
+layout: image
+image: images/bg.jpg
 src: pages/coding.md
 hide: false
 
@@ -107,7 +105,8 @@ hide: false
 ---
 
 ---
-layout: cover
+layout: image
+image: images/bg.jpg
 src: pages/coding.md
 hide: false
 
@@ -123,6 +122,13 @@ hide: false
 ---
 layout: image
 image: images/eventrix-listeners.jpg
+hide: false
+
+---
+
+---
+layout: image
+image: images/spokojnie.jpeg
 hide: false
 
 ---
