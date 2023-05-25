@@ -17,8 +17,6 @@ Event-driven architecture is a software design pattern that structures an applic
 
 - Event handlers: Event handlers are the logic units that process events. They receive events from the event bus and execute specific actions or trigger additional events based on the received event.
 
-- Event-driven services: In EDA, services are designed to be decoupled and autonomous. They can independently react to events and provide functionalities based on the events they receive.
-
 ---
 
 # Benefits of Event-Driven Architecture:

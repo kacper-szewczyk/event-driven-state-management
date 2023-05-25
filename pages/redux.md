@@ -70,9 +70,7 @@ import { useSelector } from "react-redux";
 
 ---
 
-# Updating stores
-
-## Actions 
+# Defining actions
 Actions are plain JavaScript objects that represent events or updates in your application. They are dispatched to the Redux store to trigger state changes. An action typically has a type property that describes the action's purpose and may include additional payload data.
 
 ```ts {0|1-3|5-8|all}
@@ -126,11 +124,18 @@ const cartReducer = (state = initialState, action: any) => {
   }  
 }
 
-...
+//...
 export const store = configureStore({
   reducer: {
     cart: cartReducer,
   },
+});
+
+//...
+
+export const addToCart = (product: Product) => ({
+  type: ADD_TO_CART,
+  payload: product,
 });
 
 ```

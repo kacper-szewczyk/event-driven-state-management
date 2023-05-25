@@ -134,15 +134,15 @@ hide: false
 ---
 
 ---
-layout: image
-image: images/pytania.jpg
+layout: full
+src: pages/sources.md
 hide: false
 
 ---
 
 ---
-layout: full
-src: pages/sources.md
+layout: image
+image: images/pytania.jpg
 hide: false
 
 ---

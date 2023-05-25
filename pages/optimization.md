@@ -15,8 +15,6 @@
 
 - Updating UI based on state: re-renders the affected UI components to reflect these changes, ensuring that the UI remains synchronized with the underlying data and logic.
 
-- Handling UI events: listens for user interactions, such as clicks, mouse movements, or touch events. It captures these events and triggers the corresponding actions in the logic layer. 
-
-- Styling and layout: applies CSS styles to the UI components to control their appearance, including colors, fonts, sizes, margins, and positioning. 
+- Handling UI events: listens for user interactions, such as clicks, mouse movements, or touch events. It captures these events and triggers the corresponding actions in the logic layer.  
 
 - Responsiveness: It employs responsive design techniques, such as media queries or flexible layouts, to ensure that the UI is accessible and usable across various devices and screen resolutions.
