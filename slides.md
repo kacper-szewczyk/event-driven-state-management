@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./images/bg.jpg
+background: /bg.jpg
 # apply any windi css classes to the current slide
 class: "text-center"
 # https://sli.dev/custom/highlighters.html
@@ -37,7 +37,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 layout: image-left
-image: images/cebula.jpg
+image: /cebula.jpg
 class: text-left
 src: pages/optimization_intro.md
 hide: false
@@ -54,7 +54,7 @@ hide: false
 
 ---
 layout: image-left
-image: images/Kacper.jpg
+image: /Kacper.jpg
 src: pages/about.md
 hide: false
 
@@ -69,7 +69,7 @@ hide: false
 
 ---
 layout: image
-image: images/bg.jpg
+image: /bg.jpg
 src: pages/coding.md
 hide: false
 
@@ -77,7 +77,7 @@ hide: false
 
 ---
 layout: image
-image: images/redux_select.jpg
+image: /redux_select.jpg
 hide: false
 
 ---
@@ -85,7 +85,7 @@ hide: false
 
 ---
 layout: image
-image: images/redux_reducer.jpg
+image: /redux_reducer.jpg
 hide: false
 
 ---
@@ -106,7 +106,7 @@ hide: false
 
 ---
 layout: image
-image: images/bg.jpg
+image: /bg.jpg
 src: pages/coding.md
 hide: false
 
@@ -114,21 +114,21 @@ hide: false
 
 ---
 layout: image
-image: images/eventrix.jpg
+image: /eventrix.jpg
 hide: false
 
 ---
 
 ---
 layout: image
-image: images/eventrix-listeners.jpg
+image: /eventrix-listeners.jpg
 hide: false
 
 ---
 
 ---
 layout: image
-image: images/spokojnie.jpeg
+image: /spokojnie.jpeg
 hide: false
 
 ---
@@ -142,7 +142,7 @@ hide: false
 
 ---
 layout: image
-image: images/pytania.jpg
+image: /pytania.jpg
 hide: false
 
 ---
