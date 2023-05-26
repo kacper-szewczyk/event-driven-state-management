@@ -1,5 +1,5 @@
 
-# Event driver architecture
+# Event driven architecture
 
 Event-driven architecture is a software design pattern that structures an application around the occurrence of events and the actions triggered by those events. In this architecture, the flow of the application is primarily determined by events, such as user actions, system events, or messages from other components.
 
